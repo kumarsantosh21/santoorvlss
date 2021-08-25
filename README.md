@@ -1,11 +1,12 @@
 ### Hi there 👋
-Hi there 👋
+ Hi there 👋
 
-🤵 I am Lanka Mallikarjuna
-🏫 Student from Lovely Professional University
-📚 Interested in Web Development, Cyber Security, Software Engineer
-🕶 Looking for an internship or full-time job
-💬 Reach me out on gmail: lankamallikarjuna108@gmail.com
+  
+- 🤵 I am Bommepalli Santosh Kumar Reddy
+- 🏫 Student from Lovely Professional University
+- 📚 Interested in Web Development, Cyber Security, Software Engineer
+- 🕶  Looking for an internship or full-time job
+- 💬 Reach me out on gmail: santoorvlss4321@gmail.com
 
 <!--
 **santoorvlss/santoorvlss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
