@@ -4,7 +4,7 @@
 - 🤵 I am Bommepalli Santosh Kumar Reddy
 - 🏫 Student from Lovely Professional University
 - 📚 Interested in Web Development,Software Engineer
-- 🕶  Looking for an internship or full-time job
+- 🕶  Looking for an full-time job
 - 💬 Reach me out on gmail: santoorvlss4321@gmail.com
 
 
